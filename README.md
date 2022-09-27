@@ -1,4 +1,4 @@
 # JaggerJo's Blog
 
 ### Posts:
-There are no posts yet
+- [Painless translations with F# and a bit of Magic](https://gist.github.com/JaggerJo/227f7ae53998974794b5e4245c2cc66b)
