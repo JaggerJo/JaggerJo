@@ -1,4 +1,4 @@
-# JaggerJo's Blog
+# JaggerJo's GitHub
 
 ### Posts:
 - [A 1000x in performance](https://gist.github.com/JaggerJo/6f1a7af9698ca54cdae443c0c260a98d)
