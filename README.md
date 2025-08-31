@@ -1,6 +1,7 @@
-I'm CEO of [Voyonic Systems GmbH](https://www.voyonic-systems.de), helping clients with software development, architecture, and technical leadership. I'm a developer with a focus on dotnet. 
+I'm CEO of [Voyonic Systems GmbH](https://www.voyonic-systems.de), helping clients with software development, architecture, and technical leadership. 
 
-[Voyonic Systems - Blog](https://blog.voyonic-systems.de/)
+Also, I'm the project originator of [FuncUI](https://github.com/fsprojects/Avalonia.FuncUI), a functional UI library for F# that is quite popular. 
 
-
-I'm the project originator of [FuncUI](https://github.com/fsprojects/Avalonia.FuncUI), a functional UI library for F#.
+### Voyonic Systems
+- [Company Blog](https://blog.voyonic-systems.de/)
+- [Open Source Libraries](https://github.com/Voyonic-Systems)
